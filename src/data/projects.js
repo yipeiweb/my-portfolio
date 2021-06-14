@@ -29,14 +29,14 @@ export default [
     },
     {
         title: {
-            en: 'My blog',
-            es: 'Mi blog'
+            en: 'YiPeiFavorites',
+            es: 'YiPeiFavorites'
         },
         description: {
-            en: "【Project under development】Blog developed from 0 where I publish content about the world of computing",
-            es: '【Proyecto en desarrollo】Blog desarrollado desde 0 dónde publico contenidos sobre mundo de informàtica'
+            en: "【Project under development】List of tutorials on different technologies",
+            es: '【Proyecto en desarrollo】Listado de tutoriales sobre diferentes tecnologias'
         },
-        useTecnologies: ['Bootstrap', 'Symfony', 'Angular'],
+        useTecnologies: ['Bootstrap', 'Laravel', 'Angular'],
         //projectLink: 'https://yipeiweb.github.io/my-portfolio/',
         // projectRepository: 'https://github.com/yipeiweb/my-portfolio',
         //image: 'https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg'
