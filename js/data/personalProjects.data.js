@@ -1,5 +1,20 @@
 export default [
     {
+        title: 'Enlaces favoritos',
+        imageUrl: 'https://drive.google.com/uc?id=1mVIFP5s45VF7YztEQ9HFhw9LC2LhRTeC',
+        webUrl: 'https://yipeiweb.com/',
+        useTechnologies: 'Bootstrap, Vue, Laravel, MySQL',
+        description: 'Webapp dónde almaceno enlaces collecionados relacionados al informàtica o desarrollo web.'
+    },
+    {
+        title: 'Markdown editor',
+        imageUrl: 'https://drive.google.com/uc?id=18PoiVpXhIf8HDnZ2-kpS9KgNUNF1K8a_',
+        webUrl: 'https://docs.google.com/uc?export=download&id=1n7Gcvfs9flrqGpX5KUQLAlPRDrkLFMJI',
+        repositoryUrl: 'https://github.com/yipeiweb/markdown-editor',
+        useTechnologies: 'Electron.js, Marked.js, HTML, CSS, Javascript',
+        description: 'Pequeña aplicación de escritorio que convierte código de markdown a html'
+    },
+    {
         title: 'React coinmarket',
         imageUrl: 'https://drive.google.com/uc?id=1w_VJF8Bt2Tby4tyXYpBk_kYUtqp1itY7',
         webUrl: 'https://yipeiweb.github.io/react-coingecko-api/',
