@@ -2,7 +2,7 @@ export default [
     {
         title: 'Enlaces favoritos',
         imageUrl: 'https://drive.google.com/uc?id=1mVIFP5s45VF7YztEQ9HFhw9LC2LhRTeC',
-        webUrl: 'https://yipeiweb.com/',
+        repositoryUrl: 'https://github.com/yipeiweb/favorite-links',
         useTechnologies: 'Bootstrap, Vue, Laravel, MySQL',
         description: 'Webapp dónde almaceno enlaces collecionados relacionados al informàtica o desarrollo web.'
     },
