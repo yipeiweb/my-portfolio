@@ -1,10 +1,18 @@
 export default [
     {
+        title: 'Control de presupuestos',
+        imageUrl: 'https://drive.google.com/uc?id=1L8gTERFgQq7myuF29gPU9-h5EBtS0GTt',
+        webUrl: 'https://643eaccf85d62609d4c05bb6--fanciful-peony-c971ae.netlify.app/',
+        repositoryUrl: 'https://github.com/yipeiweb/budget-controller',
+        useTechnologies: 'React, Localstorage',
+        description: 'Webapp hecho con react para gestionar el presupuesto y los gastos'
+    },
+    {
         title: 'Enlaces favoritos',
         imageUrl: 'https://drive.google.com/uc?id=1mVIFP5s45VF7YztEQ9HFhw9LC2LhRTeC',
         repositoryUrl: 'https://github.com/yipeiweb/favorite-links',
         useTechnologies: 'Bootstrap, Vue, Laravel, MySQL',
-        description: 'Webapp dónde almaceno enlaces collecionados relacionados al informàtica o desarrollo web.'
+        description: 'Webapp para almacenar enlaces collecionados.'
     },
     {
         title: 'Markdown editor',
@@ -44,7 +52,7 @@ export default [
         webUrl: 'https://yipeiweb.github.io/my-card',
         repositoryUrl: 'https://github.com/yipeiweb/my-card',
         useTechnologies: 'Bootstrap, Vue',
-        description: 'Carta de la restaurante de la familiar en formato web, disponible en multiidioma.'
+        description: 'Carta de la restaurante de la familia en formato web, disponible en multiidioma.'
     },
     {
         title: 'My portfolio',
