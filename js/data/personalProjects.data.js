@@ -1,34 +1,42 @@
 export default [
     {
-        title: 'Control de presupuestos',
+        title: 'Cotizador de criptomonedas',
+        imageUrl: 'https://drive.google.com/uc?id=13Zq4-Pz0DDk2hu580xDvTi-kpQ4T57dU',
+        webUrl: 'https://643ffeace478b531f54cc1b0--steady-bombolone-e39377.netlify.app/',
+        repositoryUrl: 'https://github.com/yipeiweb/crypto-quoter',
+        useTechnologies: 'React(StyledComponent, CustomHooks)',
+        description: 'Proyecto de curso de udemy, para cotizar de moneda a criptomoneda mediante una api externa .'
+    },
+    {
+        title: 'Gestor de presupuestos',
         imageUrl: 'https://drive.google.com/uc?id=1L8gTERFgQq7myuF29gPU9-h5EBtS0GTt',
-        webUrl: 'https://643eaccf85d62609d4c05bb6--fanciful-peony-c971ae.netlify.app/',
+        webUrl: 'https://fanciful-peony-c971ae.netlify.app/',
         repositoryUrl: 'https://github.com/yipeiweb/budget-controller',
-        useTechnologies: 'React, Localstorage',
-        description: 'Webapp hecho con react para gestionar el presupuesto y los gastos'
+        useTechnologies: 'HTML, CSS, React(hooks, useState, useEffect), Localstorage',
+        description: 'Proyecto de curso de udemy, para gestionar el presupuesto y los gastos.'
+    },
+    {
+        title: 'Administrador de pacientes',
+        imageUrl: 'https://drive.google.com/uc?id=1-u8M7WquK8D_lk1DnfdOnAxAHLF_lza4',
+        webUrl: 'https://unrivaled-crostata-cc0f9f.netlify.app/',
+        repositoryUrl: 'https://github.com/yipeiweb/budget-controller',
+        useTechnologies: 'Tailwindcss, React(hooks, useState, useEffect), Localstorage',
+        description: 'Proyecto de curso de udemy, para gestionar pacientes de veterinaria.'
     },
     {
         title: 'Enlaces favoritos',
         imageUrl: 'https://drive.google.com/uc?id=1mVIFP5s45VF7YztEQ9HFhw9LC2LhRTeC',
         repositoryUrl: 'https://github.com/yipeiweb/favorite-links',
         useTechnologies: 'Bootstrap, Vue, Laravel, MySQL',
-        description: 'Webapp para almacenar enlaces collecionados.'
+        description: 'Proyecto para almacenar tus enlaces favoritos.'
     },
     {
         title: 'Markdown editor',
         imageUrl: 'https://drive.google.com/uc?id=18PoiVpXhIf8HDnZ2-kpS9KgNUNF1K8a_',
         webUrl: 'https://docs.google.com/uc?export=download&id=1n7Gcvfs9flrqGpX5KUQLAlPRDrkLFMJI',
         repositoryUrl: 'https://github.com/yipeiweb/markdown-editor',
-        useTechnologies: 'Electron.js, Marked.js, HTML, CSS, Javascript',
+        useTechnologies: 'HTML, CSS, Javascript, Electron.js, Marked.js',
         description: 'Pequeña aplicación de escritorio que convierte código de markdown a html'
-    },
-    {
-        title: 'React coinmarket',
-        imageUrl: 'https://drive.google.com/uc?id=1w_VJF8Bt2Tby4tyXYpBk_kYUtqp1itY7',
-        webUrl: 'https://yipeiweb.github.io/react-coingecko-api/',
-        repositoryUrl: 'https://github.com/yipeiweb/react-coingecko-api',
-        useTechnologies: 'Bootstrap, React',
-        description: 'Consumir api de Coingecko para mostrar un ranking sobre el estado de las criptomonedas.'
     },
     {
         title: 'Angular coinmarket',
@@ -52,7 +60,7 @@ export default [
         webUrl: 'https://yipeiweb.github.io/my-card',
         repositoryUrl: 'https://github.com/yipeiweb/my-card',
         useTechnologies: 'Bootstrap, Vue',
-        description: 'Carta de la restaurante de la familia en formato web, disponible en multiidioma.'
+        description: 'Carta de la restaurante de la familia online, disponible en multiidioma.'
     },
     {
         title: 'My portfolio',
@@ -61,13 +69,5 @@ export default [
         repositoryUrl: 'https://github.com/yipeiweb/my-portfolio',
         useTechnologies: 'Bootstrap, Javascript',
         description: 'Portafolio de proyectos que he desarrollado por mi cuenta y en la empresa.'
-    },
-    {
-        title: 'My first PWA app',
-        imageUrl: 'https://drive.google.com/uc?id=1rlfS6gSGkoCxJt5zQxg3KdOb_D044DM_',
-        webUrl: 'https://yipeiweb.github.io/MyFirstPWA/',
-        repositoryUrl: 'https://github.com/yipeiweb/MyFirstPWA',
-        useTechnologies: 'HTML, CSS, Javascript',
-        description: 'Proyecto que he desarrollado para practicar los conocimientos que he adquirito en un curso de PWA de udemy.'
-    },  
+    }
 ]

@@ -11,7 +11,10 @@ export default class MainController
         this.containerSelector = CONST.containerSelector;
         this.personalProjectsController = new PersonalProjectsController();
         this.workProjectsController = new WorkProjectsController();
-        this.views = [this.personalProjectsController.renderView(), this.workProjectsController.renderView()];
+        this.views = [
+            this.personalProjectsController.renderView(), 
+            this.workProjectsController.renderView()
+        ];
         this.checkedUrl = false;
 
         this.checkRoute(this);
