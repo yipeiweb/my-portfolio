@@ -1,10 +1,18 @@
 export default [
     {
+        title: 'Cotizador de seguro del automovil',
+        imageUrl: 'https://drive.google.com/uc?id=1R9JmUh7ANiYkcqN6JTWK-I9mKr7rpDjd',
+        webUrl: 'https://644312e90802070d5a0bd5ec--deluxe-licorice-938633.netlify.app/',
+        repositoryUrl: 'https://github.com/yipeiweb/react-car-quoter',
+        useTechnologies: 'Tailwindcss, React(CustomHooks, Context, useRef, useCallback, useMemo)',
+        description: 'Proyecto de curso de udemy, para cotizar seguro del automovil'
+    },
+    {
         title: 'Cotizador de criptomonedas',
         imageUrl: 'https://drive.google.com/uc?id=13Zq4-Pz0DDk2hu580xDvTi-kpQ4T57dU',
         webUrl: 'https://643ffeace478b531f54cc1b0--steady-bombolone-e39377.netlify.app/',
         repositoryUrl: 'https://github.com/yipeiweb/crypto-quoter',
-        useTechnologies: 'React(StyledComponent, CustomHooks)',
+        useTechnologies: 'Tailwindcss, React(StyledComponent, CustomHooks)',
         description: 'Proyecto de curso de udemy, para cotizar de moneda a criptomoneda mediante una api externa .'
     },
     {
