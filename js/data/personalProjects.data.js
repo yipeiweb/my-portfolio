@@ -1,11 +1,11 @@
 export default [
     {
-        title: 'Cotizador de seguro del automovil',
-        imageUrl: 'https://drive.google.com/uc?id=1R9JmUh7ANiYkcqN6JTWK-I9mKr7rpDjd',
-        webUrl: 'https://644312e90802070d5a0bd5ec--deluxe-licorice-938633.netlify.app/',
-        repositoryUrl: 'https://github.com/yipeiweb/react-car-quoter',
-        useTechnologies: 'Tailwindcss, React(CustomHooks, Context, useRef, useCallback, useMemo)',
-        description: 'Proyecto de curso de udemy, para cotizar seguro del automovil'
+        title: 'Quiosco de café',
+        imageUrl: 'https://drive.google.com/uc?id=1dbb2r6tNQ8-DnP6i4OI9-_PmlgEkmEvp',
+        webUrl: 'https://6448e610fd87a43a07896926--cool-duckanoo-4ceb41.netlify.app/',
+        repositoryUrl: 'https://github.com/yipeiweb/react-laravel-quiosco',
+        useTechnologies: 'Tailwindcss, React(CustomHooks, Context, React Router Dom)',
+        description: 'Proyecto de curso de udemy, simula el panel de realizar pedidos en una cafetería'
     },
     {
         title: 'Cotizador de criptomonedas',
